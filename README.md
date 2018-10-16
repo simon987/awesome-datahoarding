@@ -77,6 +77,7 @@ the Web (HTTP & FTP)
 * [grepWin](https://github.com/stefankueng/grepWin): A powerful and fast search tool using regular expressions (Windows)
 * [TeraCopy](https://www.codesector.com/downloads): Copy your files faster and more securely
 * [baobab](https://github.com/GNOME/baobab): Graphical disk usage analyzer
+* [phockup](https://github.com/ivandokov/phockup): Media sorting tool to organize photos and videos from your camera
 
 ### APIs & Online tools
 * [thetvdb](https://www.thetvdb.com/): TV shows metadata (used by plex)
