@@ -1,4 +1,4 @@
-Note: This is only a first draft/brainstorm. I will try to organize the list with more usefull sections in the future    
+Note: This is only a first draft/brainstorm. I will try to organize the list with more useful sections in the future    
 Feel free to contribute!
 
 
@@ -33,6 +33,7 @@ the Web (HTTP & FTP)
 * [Instagram Scraper](https://github.com/dankmemes/instagram-scraper): Instagram-scraper is a command-line application written in Python that scrapes and downloads an instagram user's photos and videos. Use responsibly.
 * [gallery-dl](https://github.com/mikf/gallery-dl): Fownload image galleries and collections from pixiv, exhentai, danbooru and more 
 * [FlexGet](https://github.com/Flexget/Flexget): Multipurpose automation tool for content like torrents, nzbs, podcasts, comics, series, movies, etc
+* [PyInstaLive](https://github.com/notcammy/PyInstaLive): Instagram live stream downloader.
 
 ### Compression
 * [KGB Archiver](https://github.com/RandallFlagg/kgbarchiver): compression tool with unbelievable high compression rate
