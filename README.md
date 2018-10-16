@@ -16,6 +16,7 @@
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch): Saves threads from \*chan-style boards and checks for updates until the thread dies
 * [Sonarr](https://github.com/Sonarr/Sonarr): PVR for Usenet and BitTorrent users
 * [Radarr](https://github.com/Radarr/Radarr): A fork of Sonarr to work with movies à la Couchpotato
+* [Jackett](https://github.com/Jackett/Jackett): API support for torrent trackers (works with Sonarr, Radarr and others)
 * [Sick-Beard](https://github.com/midgetspy/Sick-Beard): PVR for newsgroup users (with limited torrent support)
 * [Lidarr](https://github.com/lidarr/Lidarr): Music collection manager for Usenet and BitTorrent users
 * [Mylar](https://github.com/evilhero/mylar): An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents
