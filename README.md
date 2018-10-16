@@ -75,7 +75,8 @@ the Web (HTTP & FTP)
 * [diskover](https://github.com/shirosaidev/diskover): File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
 * [fucking-weeb](https://github.com/cosarara/fucking-weeb): A library manager for animu (and TV shows, and whatever).
 * [Everything](https://www.voidtools.com/): Locate files and folders by name instantly (Windows)
-* [beets](https://github.com/beetbox/beets): music library manager and MusicBrainz tagger
+* [beets](https://github.com/beetbox/beets): Music library manager and MusicBrainz tagger
+* [picard](https://github.com/metabrainz/picard): MusicBrainz tagger
 * [Calibre](https://github.com/kovidgoyal/calibre): Ebook manager
 * [WinDirStat](https://windirstat.net/): Disk usage statistics viewer and cleanup tool for Windows
 * [jdupes](https://github.com/jbruchon/jdupes): Powerful duplicate file finder
