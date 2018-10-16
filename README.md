@@ -40,6 +40,7 @@
 * [youtube-dl_soundcloud](https://gist.github.com/simon987/2dd7c57d65a741c93f5791bc984b97d1): snippet for using youtube-dl to download soundcloud playlists
 * [rm_empty_subdir](https://gist.github.com/simon987/f5c2cd7602898615ac9bc8c762d9fe1d): Remove empty sub-directories on Windows
 * [void-cat-uploader](https://github.com/takky1154/void-cat-uploader): This script automatically uploads all files inside a directory to https://void.cat.
+* [Backblaze B2 sync backup script](https://gist.github.com/AlexanderProd/cb645cf858fd5c89780e7df267226b80): Script to sync mutliple directories with Backblaze B2
 
 ### Content sharing
 * [opds](https://opds.io/): Easy to use, Open & Decentralized Content Distribution
