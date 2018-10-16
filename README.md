@@ -79,6 +79,7 @@ the Web (HTTP & FTP)
 * [TeraCopy](https://www.codesector.com/downloads): Copy your files faster and more securely
 * [baobab](https://github.com/GNOME/baobab): Graphical disk usage analyzer
 * [phockup](https://github.com/ivandokov/phockup): Media sorting tool to organize photos and videos from your camera
+* [MediaElch](https://github.com/komet/mediaelch): Media manager for Kodi
 
 ### APIs & Online tools
 * [thetvdb](https://www.thetvdb.com/): TV shows metadata (used by plex)
