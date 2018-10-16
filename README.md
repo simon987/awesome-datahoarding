@@ -19,6 +19,8 @@
 * [Sick-Beard](https://github.com/midgetspy/Sick-Beard): PVR for newsgroup users (with limited torrent support)
 * [Lidarr](https://github.com/lidarr/Lidarr): Music collection manager for Usenet and BitTorrent users
 * [Mylar](https://github.com/evilhero/mylar): An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents
+* [RipMe](https://github.com/RipMeApp/ripme): RipMe is an album ripper for various websites. Runs on your computer. Requires Java 8.
+* [Instagram Scraper](https://github.com/dankmemes/instagram-scraper): Instagram-scraper is a command-line application written in Python that scrapes and downloads an instagram user's photos and videos. Use responsibly.
 * [aria2](https://aria2.github.io/): A lightweight multi-protocol & multi-source command-line download utility
 
 ### Compression
