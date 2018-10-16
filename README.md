@@ -2,10 +2,15 @@
 ### Download/Scraping utilities
 
 * [Rclone](https://github.com/ncw/rclone): A command line program to sync files and directories to and from various cloud storage providers
+* [aria2](https://aria2.github.io/): A lightweight multi-protocol & multi-source command-line download utility
+* [wget](https://savannah.gnu.org/git/?group=wget): Utility for non-interactive download of files from
+the Web (HTTP & FTP)
+* [curl](https://github.com/curl/curl): Tool and library for transferring data with URL syntax, supporting many protocols
 * [Youtube-DL](https://github.com/rg3/youtube-dl): A command-line program to download videos from YouTube and a few hundred more sites
 * [annie](https://github.com/iawia002/annie): Youtube-DL alternative writtent in Golang
 * [wikiteam](https://github.com/WikiTeam/wikiteam): set of tools for archiving wikis
-* [FicSave](https://github.com/waylaidwanderer/FicSave): online fanfiction downloader
+* [FicSave](https://github.com/waylaidwanderer/FicSave): Online fanfiction downloader
+* [FanFicFare](https://github.com/JimmXinu/FanFicFare): Tool for making eBooks from stories on fanfiction and other web sites
 * [yt-mango](https://github.com/terorie/yt-mango): Youtube metadata archiver
 * [Youtube-MA](https://github.com/CorentinB/YouTube-MA): Youtube metadata archiver
 * [CrowLeer](https://github.com/ERap320/CrowLeer): Powerful C++ web crawler based on libcurl
@@ -20,9 +25,11 @@
 * [Sick-Beard](https://github.com/midgetspy/Sick-Beard): PVR for newsgroup users (with limited torrent support)
 * [Lidarr](https://github.com/lidarr/Lidarr): Music collection manager for Usenet and BitTorrent users
 * [Mylar](https://github.com/evilhero/mylar): An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents
+* [bazarr](https://github.com/morpheus65535/bazarr): Companion application to Sonarr and Radarr for downloading subtitles
 * [RipMe](https://github.com/RipMeApp/ripme): RipMe is an album ripper for various websites. Runs on your computer. Requires Java 8.
 * [Instagram Scraper](https://github.com/dankmemes/instagram-scraper): Instagram-scraper is a command-line application written in Python that scrapes and downloads an instagram user's photos and videos. Use responsibly.
-* [aria2](https://aria2.github.io/): A lightweight multi-protocol & multi-source command-line download utility
+* [gallery-dl](https://github.com/mikf/gallery-dl): Fownload image galleries and collections from pixiv, exhentai, danbooru and more 
+* [FlexGet](https://github.com/Flexget/Flexget): Multipurpose automation tool for content like torrents, nzbs, podcasts, comics, series, movies, etc
 
 ### Compression
 * [KGB Archiver](https://github.com/RandallFlagg/kgbarchiver): compression tool with unbelievable high compression rate
@@ -57,7 +64,21 @@
 * [Everything](https://www.voidtools.com/): Locate files and folders by name instantly (Windows)
 * [beets](https://github.com/beetbox/beets): music library manager and MusicBrainz tagger
 * [Calibre](https://github.com/kovidgoyal/calibre): Ebook manager
+* [WinDirStat](https://windirstat.net/): Disk usage statistics viewer and cleanup tool for Windows
+* [jdupes](https://github.com/jbruchon/jdupes): Powerful duplicate file finder
+* [Mp3tag](https://www.mp3tag.de): Powerful and easy-to-use tool to edit metadata of audio files (Windows/Mac)
+* [FileBot](https://www.filebot.net/): FileBot is the ultimate tool for organizing and renaming your Movies, TV Shows and Anime
+* [MediaInfo](https://github.com/MediaArea/MediaInfo): Convenient unified display of the most relevant technical and tag data for video and audio files
+* [tree](http://mama.indstate.edu/users/ice/tree/): 'tree' command for linux
+* [grepWin](https://github.com/stefankueng/grepWin): A powerful and fast search tool using regular expressions (Windows)
+* [TeraCopy](https://www.codesector.com/downloads): Copy your files faster and more securely
+* [baobab](https://github.com/GNOME/baobab): Graphical disk usage analyzer
 
 ### APIs & Online tools
 * [thetvdb](https://www.thetvdb.com/): TV shows metadata (used by plex)
 * [iqdb](https://iqdb.org/): Multi-service reverse image search
+
+### Hardware / Monitoring
+* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/): A HDD/SSD utility software which supports a part of USB, Intel RAID and NVMe.
+* [smartmontools](https://www.smartmontools.org/): Control and monitor storage systems using the (SMART) built into most modern ATA/SATA, SCSI/SAS and NVMe disks
+* [Hard Drive Sentinel](https://www.hdsentinel.com/): Multi-OS SSD and HDD monitoring and analysis software
