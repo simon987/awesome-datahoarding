@@ -14,6 +14,8 @@
 * [dzi-dl](https://github.com/ryanfb/dzi-dl): Deep Zoom Image Downloader
 * [iiif-dl](https://github.com/ryanfb/iiif-dl): Command-line tile downloader/assembler for IIIF endpoints/manifests
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch): Saves threads from \*chan-style boards and checks for updates until the thread dies
+* [Sonarr](https://github.com/Sonarr/Sonarr): PVR for Usenet and BitTorrent users
+* [Radarr](https://github.com/Radarr/Radarr): A fork of Sonarr to work with movies à la Couchpotato
 
 ### Compression
 * [KGB Archiver](https://github.com/RandallFlagg/kgbarchiver): compression tool with unbelievable high compression rate
@@ -46,7 +48,7 @@
 * [fucking-weeb](https://github.com/cosarara/fucking-weeb): A library manager for animu (and TV shows, and whatever).
 * [Everything](https://www.voidtools.com/): Locate files and folders by name instantly (Windows)
 * [beets](https://github.com/beetbox/beets): music library manager and MusicBrainz tagger
-
+* [Calibre](https://github.com/kovidgoyal/calibre): Ebook manager
 
 ### APIs & Online tools
 * [thetvdb](https://www.thetvdb.com/): TV shows metadata (used by plex)
