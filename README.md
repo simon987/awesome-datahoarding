@@ -19,7 +19,7 @@
 * [Sick-Beard](https://github.com/midgetspy/Sick-Beard): PVR for newsgroup users (with limited torrent support)
 * [Lidarr](https://github.com/lidarr/Lidarr): Music collection manager for Usenet and BitTorrent users
 * [Mylar](https://github.com/evilhero/mylar): An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents
-
+* [aria2](https://aria2.github.io/): A lightweight multi-protocol & multi-source command-line download utility
 
 ### Compression
 * [KGB Archiver](https://github.com/RandallFlagg/kgbarchiver): compression tool with unbelievable high compression rate
