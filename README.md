@@ -34,6 +34,7 @@ the Web (HTTP & FTP)
 * [gallery-dl](https://github.com/mikf/gallery-dl): Fownload image galleries and collections from pixiv, exhentai, danbooru and more 
 * [FlexGet](https://github.com/Flexget/Flexget): Multipurpose automation tool for content like torrents, nzbs, podcasts, comics, series, movies, etc
 * [PyInstaLive](https://github.com/notcammy/PyInstaLive): Instagram live stream downloader.
+* [RedditDownloader](https://github.com/shadowmoose/RedditDownloader): Scrapes Reddit to download media of your choice
 
 ### Compression
 * [KGB Archiver](https://github.com/RandallFlagg/kgbarchiver): compression tool with unbelievable high compression rate
