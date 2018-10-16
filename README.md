@@ -1,4 +1,4 @@
-Note: This is only a first draft/brainstorm. I will try to organize the list with more useful sections in the future    
+Note: This is only a first draft/brainstorm. I will try to organize the list with more useful sections in the future
 Feel free to contribute!
 
 
@@ -18,7 +18,7 @@ the Web (HTTP & FTP)
 * [Youtube-MA](https://github.com/CorentinB/YouTube-MA): Youtube metadata archiver
 * [CrowLeer](https://github.com/ERap320/CrowLeer): Powerful C++ web crawler based on libcurl
 * [floatplane_ripper](https://gist.github.com/simon987/0756c378ca2dfb0003931e26ff7fe270): Script to rip all videos from https://floatplane.rip/
-* [grab-site](https://github.com/ludios/grab-site): The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns 
+* [grab-site](https://github.com/ludios/grab-site): The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
 * [dzi-dl](https://github.com/ryanfb/dzi-dl): Deep Zoom Image Downloader
 * [iiif-dl](https://github.com/ryanfb/iiif-dl): Command-line tile downloader/assembler for IIIF endpoints/manifests
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch): Saves threads from \*chan-style boards and checks for updates until the thread dies
@@ -31,7 +31,7 @@ the Web (HTTP & FTP)
 * [bazarr](https://github.com/morpheus65535/bazarr): Companion application to Sonarr and Radarr for downloading subtitles
 * [RipMe](https://github.com/RipMeApp/ripme): RipMe is an album ripper for various websites. Runs on your computer. Requires Java 8.
 * [Instagram Scraper](https://github.com/dankmemes/instagram-scraper): Instagram-scraper is a command-line application written in Python that scrapes and downloads an instagram user's photos and videos. Use responsibly.
-* [gallery-dl](https://github.com/mikf/gallery-dl): Fownload image galleries and collections from pixiv, exhentai, danbooru and more 
+* [gallery-dl](https://github.com/mikf/gallery-dl): Fownload image galleries and collections from pixiv, exhentai, danbooru and more
 * [FlexGet](https://github.com/Flexget/Flexget): Multipurpose automation tool for content like torrents, nzbs, podcasts, comics, series, movies, etc
 * [PyInstaLive](https://github.com/notcammy/PyInstaLive): Instagram live stream downloader.
 * [RedditDownloader](https://github.com/shadowmoose/RedditDownloader): Scrapes Reddit to download media of your choice
@@ -44,8 +44,9 @@ the Web (HTTP & FTP)
 * [NetLimiter](https://www.netlimiter.com/): Internet traffic control and monitoring tool for Windows
 
 ### File systems
-* [NTFS drivers for MacOS](https://www.seagate.com/ca/en/support/downloads/item/ntfs-driver-for-mac-os-master-dl/) 
-* [httpdirfs](https://github.com/fangfufu/httpdirfs/):  A filesystem which allows you to mount HTTP directory listings 
+* [NTFS drivers for MacOS](https://www.seagate.com/ca/en/support/downloads/item/ntfs-driver-for-mac-os-master-dl/)
+* [httpdirfs](https://github.com/fangfufu/httpdirfs/):  A filesystem which allows you to mount HTTP directory listings
+* [mergerfs](https://github.com/trapexit/mergerfs): a featureful union filesystem
 
 ### File conversion
 * [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3): convert AAX files to common MP3, M4A, M4B, flac and ogg formats through a basic bash script frontend to FFMPEG
