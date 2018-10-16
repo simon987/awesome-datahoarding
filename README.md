@@ -1,3 +1,6 @@
+Note: This is only a first draft/brainstorm. I will try to organize the list with more usefull sections in the future    
+Feel free to contribute!
+
 
 ### Download/Scraping utilities
 
