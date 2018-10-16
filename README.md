@@ -35,6 +35,10 @@ the Web (HTTP & FTP)
 * [FlexGet](https://github.com/Flexget/Flexget): Multipurpose automation tool for content like torrents, nzbs, podcasts, comics, series, movies, etc
 * [PyInstaLive](https://github.com/notcammy/PyInstaLive): Instagram live stream downloader.
 * [RedditDownloader](https://github.com/shadowmoose/RedditDownloader): Scrapes Reddit to download media of your choice
+* [HTTrack](https://www.httrack.com/): Download a website from the Internet to a local directory
+* [Heritrix](https://github.com/internetarchive/heritrix3): Extensible, web-scale, archival-quality web crawler
+* [wail](https://github.com/machawk1/wail): Web Archiving Integration Layer: One-Click User Instigated Preservation
+* [Collect](https://github.com/xarantolus/Collect): A server to collect & archive websites that also supports video downloads
 
 ### Compression
 * [KGB Archiver](https://github.com/RandallFlagg/kgbarchiver): compression tool with unbelievable high compression rate
@@ -50,6 +54,8 @@ the Web (HTTP & FTP)
 
 ### File conversion
 * [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3): convert AAX files to common MP3, M4A, M4B, flac and ogg formats through a basic bash script frontend to FFMPEG
+* [html2warc](https://github.com/steffenfritz/html2warc): Convert web resources to a single warc file
+
 
 ### Utility Scripts
 * [rclone_dirsize](https://gist.github.com/simon987/7aff5ca3e9ae6c755055ca7b350ef9f8): Get size of http directory listing with rclone
