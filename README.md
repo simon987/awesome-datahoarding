@@ -39,6 +39,7 @@ the Web (HTTP & FTP)
 * [Heritrix](https://github.com/internetarchive/heritrix3): Extensible, web-scale, archival-quality web crawler
 * [wail](https://github.com/machawk1/wail): Web Archiving Integration Layer: One-Click User Instigated Preservation
 * [Collect](https://github.com/xarantolus/Collect): A server to collect & archive websites that also supports video downloads
+* [you-get](https://github.com/soimort/you-get): Dumb downloader that scrapes the web
 
 ### Compression
 * [KGB Archiver](https://github.com/RandallFlagg/kgbarchiver): compression tool with unbelievable high compression rate
