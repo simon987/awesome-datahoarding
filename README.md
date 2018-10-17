@@ -43,6 +43,8 @@ the Web (HTTP & FTP)
 ### Compression
 * [KGB Archiver](https://github.com/RandallFlagg/kgbarchiver): compression tool with unbelievable high compression rate
 * [peazip](http://www.peazip.org/): File archiver utility
+* [PIGZ](https://zlib.net/pigz/): Multi-threaded gzip
+* [WinRAR](https://www.rarlab.com/download.htm): Can decompress RAR and zip files.
 
 ### Network
 * [NetLimiter](https://www.netlimiter.com/): Internet traffic control and monitoring tool for Windows
