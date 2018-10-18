@@ -25,6 +25,7 @@ Feel free to contribute!
 * [Jackett](https://github.com/Jackett/Jackett): API support for torrent trackers (works with Sonarr, Radarr and others)
 * [Lidarr](https://github.com/lidarr/Lidarr): Music collection manager for Usenet and BitTorrent users
 * [Mylar](https://github.com/evilhero/mylar): An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents
+* [Plowshare](https://github.com/mcrapet/plowshare): Command-line tool to manage file-sharing site
 * [PyInstaLive](https://github.com/notcammy/PyInstaLive): Instagram live stream downloader.
 * [Radarr](https://github.com/Radarr/Radarr): A fork of Sonarr to work with movies à la Couchpotato
 * [Rclone](https://github.com/ncw/rclone): A command line program to sync files and directories to and from various cloud storage providers
@@ -33,6 +34,7 @@ Feel free to contribute!
 * [Sick-Beard](https://github.com/midgetspy/Sick-Beard): PVR for newsgroup users (with limited torrent support)
 * [Sonarr](https://github.com/Sonarr/Sonarr): PVR for Usenet and BitTorrent users
 * [wail](https://github.com/machawk1/wail): Web Archiving Integration Layer: One-Click User Instigated Preservation
+* [Collect](https://github.com/xarantolus/Collect): A server to collect & archive websites that also supports video downloads
 * [wget](https://savannah.gnu.org/git/?group=wget): Utility for non-interactive download of files from
 * [wikiteam](https://github.com/WikiTeam/wikiteam): set of tools for archiving wikis
 * [you-get](https://github.com/soimort/you-get): Dumb downloader that scrapes the web
