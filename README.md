@@ -4,11 +4,11 @@ Feel free to contribute!
 ## Download utilities
 
 ### Web Archiving
-* [wail](https://github.com/machawk1/wail): Web Archiving Integration Layer: One-Click User Instigated Preservation
 * [Collect](https://github.com/xarantolus/Collect): A server to collect & archive websites that also supports video downloads
 * [grab-site](https://github.com/ludios/grab-site): The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
 * [Heritrix](https://github.com/internetarchive/heritrix3): Extensible, web-scale, archival-quality web crawler
 * [HTTrack](https://www.httrack.com/): Download a website from the Internet to a local directory
+* [wail](https://github.com/machawk1/wail): Web Archiving Integration Layer: One-Click User Instigated Preservation
 * [wikiteam](https://github.com/WikiTeam/wikiteam): set of tools for archiving wikis
 
 ### General
@@ -16,11 +16,11 @@ Feel free to contribute!
 * [aria2](https://aria2.github.io/): A lightweight multi-protocol & multi-source command-line download utility
 * [CrowLeer](https://github.com/ERap320/CrowLeer): Powerful C++ web crawler based on libcurl
 * [curl](https://github.com/curl/curl): Tool and library for transferring data with URL syntax, supporting many protocols
-* [Youtube-DL](https://github.com/rg3/youtube-dl): A command-line program to download videos from YouTube and a few hundred more sites
-* [Rclone](https://github.com/ncw/rclone): A command line program to sync files and directories to and from various cloud storage providers
 * [Plowshare](https://github.com/mcrapet/plowshare): Command-line tool to manage file-sharing site
+* [Rclone](https://github.com/ncw/rclone): A command line program to sync files and directories to and from various cloud storage providers
 * [wget](https://savannah.gnu.org/git/?group=wget): Utility for non-interactive download of files from
 * [you-get](https://github.com/soimort/you-get): Dumb downloader that scrapes the web
+* [Youtube-DL](https://github.com/rg3/youtube-dl): A command-line program to download videos from YouTube and a few hundred more sites
 
 ### Application-specific
 
@@ -31,15 +31,15 @@ Feel free to contribute!
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare): Tool for making eBooks from stories on fanfiction and other web sites
 * [FicSave](https://github.com/waylaidwanderer/FicSave): Online fanfiction downloader
 * [Google Images Download](https://github.com/hardikvasa/google-images-download): Python script for downloading images
+* [iiif-dl](https://github.com/ryanfb/iiif-dl): Command-line tile downloader/assembler for IIIF endpoints/manifests
 * [Instagram Scraper](https://github.com/dankmemes/instagram-scraper): Instagram-scraper is a command-line application written in Python that scrapes and downloads an instagram user's photos and videos. Use responsibly.
+* [PyInstaLive](https://github.com/notcammy/PyInstaLive): Instagram live stream downloader.
+* [RedditDownloader](https://github.com/shadowmoose/RedditDownloader): Scrapes Reddit to download media of your choice
+* [Scribd-Downloader](https://github.com/ritiek/scribd-downloader): Allows downloading of Scribd documents
 * [RipMe](https://github.com/RipMeApp/ripme): RipMe is an album ripper for various websites. Runs on your computer. Requires Java 8.
 * [yt-mango](https://github.com/terorie/yt-mango): Youtube metadata archiver
 the Web (HTTP & FTP)
 * [Youtube-MA](https://github.com/CorentinB/YouTube-MA): Youtube metadata archiver
-* [PyInstaLive](https://github.com/notcammy/PyInstaLive): Instagram live stream downloader.
-* [RedditDownloader](https://github.com/shadowmoose/RedditDownloader): Scrapes Reddit to download media of your choice
-* [Scribd-Downloader](https://github.com/ritiek/scribd-downloader): Allows downloading of Scribd documents
-* [iiif-dl](https://github.com/ryanfb/iiif-dl): Command-line tile downloader/assembler for IIIF endpoints/manifests
 
 ### Download automation
 * [bazarr](https://github.com/morpheus65535/bazarr): Companion application to Sonarr and Radarr for downloading subtitles
