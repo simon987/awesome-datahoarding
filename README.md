@@ -113,3 +113,7 @@ the Web (HTTP & FTP)
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/): A HDD/SSD utility software which supports a part of USB, Intel RAID and NVMe.
 * [Hard Drive Sentinel](https://www.hdsentinel.com/): Multi-OS SSD and HDD monitoring and analysis software
 * [smartmontools](https://www.smartmontools.org/): Control and monitor storage systems using the (SMART) built into most modern ATA/SATA, SCSI/SAS and NVMe disks
+
+## Data recovery
+* [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) FOSS powerful gui data recovery tool. 
+* [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download) Another FOSS tool by the author of PhotoRec, but this one is for cli 
