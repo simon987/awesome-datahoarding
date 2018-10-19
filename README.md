@@ -104,6 +104,7 @@ the Web (HTTP & FTP)
 * [TeraCopy](https://www.codesector.com/downloads): Copy your files faster and more securely
 * [tree](http://mama.indstate.edu/users/ice/tree/): 'tree' command for linux
 * [WinDirStat](https://windirstat.net/): Disk usage statistics viewer and cleanup tool for Windows
+* [SyncToy](https://www.microsoft.com/en-us/download/details.aspx?id=15155): Microsoft windows file parity across locations tool 
 
 ## APIs & Online tools
 * [iqdb](https://iqdb.org/): Multi-service reverse image search
