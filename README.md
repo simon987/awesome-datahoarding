@@ -12,13 +12,13 @@ Feel free to contribute!
 * [wikiteam](https://github.com/WikiTeam/wikiteam): set of tools for archiving wikis
 
 ### General
-* [annie](https://github.com/iawia002/annie): Youtube-DL alternative writtent in Golang
+* [annie](https://github.com/iawia002/annie): Youtube-DL alternative written in Golang
 * [aria2](https://aria2.github.io/): A lightweight multi-protocol & multi-source command-line download utility
 * [CrowLeer](https://github.com/ERap320/CrowLeer): Powerful C++ web crawler based on libcurl
 * [curl](https://github.com/curl/curl): Tool and library for transferring data with URL syntax, supporting many protocols
 * [Plowshare](https://github.com/mcrapet/plowshare): Command-line tool to manage file-sharing site
 * [Rclone](https://github.com/ncw/rclone): A command line program to sync files and directories to and from various cloud storage providers
-* [wget](https://savannah.gnu.org/git/?group=wget): Utility for non-interactive download of files from
+* [wget](https://savannah.gnu.org/git/?group=wget): Utility for non-interactive download of files from the Web.
 * [you-get](https://github.com/soimort/you-get): Dumb downloader that scrapes the web
 * [Youtube-DL](https://github.com/rg3/youtube-dl): A command-line program to download videos from YouTube and a few hundred more sites
 
@@ -26,7 +26,7 @@ Feel free to contribute!
 
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch): Saves threads from \*chan-style boards and checks for updates until the thread dies
 * [floatplane_ripper](https://gist.github.com/simon987/0756c378ca2dfb0003931e26ff7fe270): Script to rip all videos from https://floatplane.rip/
-* [gallery-dl](https://github.com/mikf/gallery-dl): Fownload image galleries and collections from pixiv, exhentai, danbooru and more
+* [gallery-dl](https://github.com/mikf/gallery-dl): Download image galleries and collections from pixiv, exhentai, danbooru and more
 * [dzi-dl](https://github.com/ryanfb/dzi-dl): Deep Zoom Image Downloader
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare): Tool for making eBooks from stories on fanfiction and other web sites
 * [FicSave](https://github.com/waylaidwanderer/FicSave): Online fanfiction downloader
