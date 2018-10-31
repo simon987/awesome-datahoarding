@@ -9,6 +9,7 @@ Feel free to contribute!
 * [Heritrix](https://github.com/internetarchive/heritrix3): Extensible, web-scale, archival-quality web crawler
 * [HTTrack](https://www.httrack.com/): Download a website from the Internet to a local directory
 * [wail](https://github.com/machawk1/wail): Web Archiving Integration Layer: One-Click User Instigated Preservation
+* [webrecorder](https://github.com/webrecorder/webrecorder): An integrated platform for creating high-fidelity, ISO-compliant web archives in a user-friendly interface, providing access to archived content, and sharing collections
 * [wikiteam](https://github.com/WikiTeam/wikiteam): set of tools for archiving wikis
 
 ### General
@@ -19,6 +20,7 @@ Feel free to contribute!
 * [Plowshare](https://github.com/mcrapet/plowshare): Command-line tool to manage file-sharing site
 * [Rclone](https://github.com/ncw/rclone): A command line program to sync files and directories to and from various cloud storage providers
 * [wget](https://savannah.gnu.org/git/?group=wget): Utility for non-interactive download of files from the Web.
+* [wpull](https://github.com/ArchiveTeam/wpull): Wget-compatible web downloader and crawler
 * [you-get](https://github.com/soimort/you-get): Dumb downloader that scrapes the web
 * [Youtube-DL](https://github.com/rg3/youtube-dl): A command-line program to download videos from YouTube and a few hundred more sites
 
@@ -36,6 +38,7 @@ Feel free to contribute!
 * [PyInstaLive](https://github.com/notcammy/PyInstaLive): Instagram live stream downloader.
 * [RedditDownloader](https://github.com/shadowmoose/RedditDownloader): Scrapes Reddit to download media of your choice
 * [Scribd-Downloader](https://github.com/ritiek/scribd-downloader): Allows downloading of Scribd documents
+* [snscrape](https://github.com/JustAnotherArchivist/snscrape): A social networking service scraper in Python
 * [RipMe](https://github.com/RipMeApp/ripme): RipMe is an album ripper for various websites. Runs on your computer. Requires Java 8.
 * [yt-mango](https://github.com/terorie/yt-mango): Youtube metadata archiver
 the Web (HTTP & FTP)
@@ -70,6 +73,7 @@ the Web (HTTP & FTP)
 ## File conversion
 * [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3): convert AAX files to common MP3, M4A, M4B, flac and ogg formats through a basic bash script frontend to FFMPEG
 * [html2warc](https://github.com/steffenfritz/html2warc): Convert web resources to a single warc file
+* [warcat](https://github.com/chfoo/warcat): Tool and library for handling Web ARChive (WARC) files
 
 
 ## Utility Scripts
