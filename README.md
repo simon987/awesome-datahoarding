@@ -32,14 +32,18 @@ Feel free to contribute!
 * [dzi-dl](https://github.com/ryanfb/dzi-dl): Deep Zoom Image Downloader
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare): Tool for making eBooks from stories on fanfiction and other web sites
 * [FicSave](https://github.com/waylaidwanderer/FicSave): Online fanfiction downloader
+* [flickr_download](https://github.com/beaufour/flickr-download): Simple script to download a Flickr set.
 * [Google Images Download](https://github.com/hardikvasa/google-images-download): Python script for downloading images
 * [iiif-dl](https://github.com/ryanfb/iiif-dl): Command-line tile downloader/assembler for IIIF endpoints/manifests
+* [instaloader](https://github.com/instaloader/instaloader): Download pictures (or videos) along with their captions and other metadata from Instagram
+* [InstaLooter](https://github.com/althonos/InstaLooter): API-less Instagram pictures and videos downloader. 
 * [Instagram Scraper](https://github.com/dankmemes/instagram-scraper): Instagram-scraper is a command-line application written in Python that scrapes and downloads an instagram user's photos and videos. Use responsibly.
 * [PyInstaLive](https://github.com/notcammy/PyInstaLive): Instagram live stream downloader.
 * [RedditDownloader](https://github.com/shadowmoose/RedditDownloader): Scrapes Reddit to download media of your choice
 * [Scribd-Downloader](https://github.com/ritiek/scribd-downloader): Allows downloading of Scribd documents
 * [snscrape](https://github.com/JustAnotherArchivist/snscrape): A social networking service scraper in Python
 * [RipMe](https://github.com/RipMeApp/ripme): RipMe is an album ripper for various websites. Runs on your computer. Requires Java 8.
+* [tumblr-utils](https://github.com/bbolli/tumblr-utils): Utilities for dealing with Tumblr blogs, Tumblr backup.
 * [yt-mango](https://github.com/terorie/yt-mango): Youtube metadata archiver
 the Web (HTTP & FTP)
 * [Youtube-MA](https://github.com/CorentinB/YouTube-MA): Youtube metadata archiver
