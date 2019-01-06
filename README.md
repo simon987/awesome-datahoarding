@@ -36,6 +36,7 @@ Feel free to contribute!
 * [flickr_download](https://github.com/beaufour/flickr-download): Simple script to download a Flickr set.
 * [Google Images Download](https://github.com/hardikvasa/google-images-download): Python script for downloading images
 * [iiif-dl](https://github.com/ryanfb/iiif-dl): Command-line tile downloader/assembler for IIIF endpoints/manifests
+* [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber): Very customizable imageboard/booru downloader with powerful filenaming features. 
 * [instaloader](https://github.com/instaloader/instaloader): Download pictures (or videos) along with their captions and other metadata from Instagram
 * [InstaLooter](https://github.com/althonos/InstaLooter): API-less Instagram pictures and videos downloader. 
 * [Instagram Scraper](https://github.com/dankmemes/instagram-scraper): Instagram-scraper is a command-line application written in Python that scrapes and downloads an instagram user's photos and videos. Use responsibly.
