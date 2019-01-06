@@ -129,3 +129,10 @@ the Web (HTTP & FTP)
 ## Data recovery
 * [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) FOSS powerful gui data recovery tool. 
 * [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download) Another FOSS tool by the author of PhotoRec, but this one is for cli 
+
+## Local Media
+* [whipper](https://github.com/whipper-team/whipper): Python CD-DA ripper preferring accuracy over speed. Generates .flac, .cue, and .log by default and automatically fetches metadata from musicbrainz. EAC log plugin is available.
+* [Exact Audio Copy](http://www.exactaudiocopy.de/): A freeware, Windows only application similar to the above that doesn't automatically fetch metadata by default, but EAC rips are preferred by most trackers. 
+* [MakeMKV](https://www.makemkv.com/): A cross-platform DVD ripper that supports recent blu ray DVDs. It's mostly open source, but the blu ray secret sauce is still hidden. 
+* [Handbrake](https://handbrake.fr/): Open source DVD ripper and media trascoder. Has more options and features than the above, but it cannot rip blu ray discs. 
+
