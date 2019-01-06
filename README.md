@@ -17,6 +17,7 @@ Feel free to contribute!
 * [aria2](https://aria2.github.io/): A lightweight multi-protocol & multi-source command-line download utility
 * [CrowLeer](https://github.com/ERap320/CrowLeer): Powerful C++ web crawler based on libcurl
 * [curl](https://github.com/curl/curl): Tool and library for transferring data with URL syntax, supporting many protocols
+* [httpie](https://httpie.org/): a tool similar to curl and wget but designed to be user friendly, useful for web scraping with shell scripts but be aware you're adding a dependency by doing so. 
 * [Plowshare](https://github.com/mcrapet/plowshare): Command-line tool to manage file-sharing site
 * [Rclone](https://github.com/ncw/rclone): A command line program to sync files and directories to and from various cloud storage providers
 * [wget](https://savannah.gnu.org/git/?group=wget): Utility for non-interactive download of files from the Web.
