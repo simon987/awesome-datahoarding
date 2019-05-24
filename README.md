@@ -138,3 +138,6 @@ the Web (HTTP & FTP)
 * [MakeMKV](https://www.makemkv.com/): A cross-platform DVD ripper that supports recent blu ray DVDs. It's mostly open source, but the blu ray secret sauce is still hidden. 
 * [Handbrake](https://handbrake.fr/): Open source DVD ripper and media trascoder. Has more options and features than the above, but it cannot rip blu ray discs. 
 
+## Long term data archiving
+* [Blockyarchive](https://github.com/darrenldl/blockyarchive): Archive with forward error correction and sector level recoverability.
+* [par2cmdline](https://github.com/Parchive/par2cmdline): A PAR 2.0 compatible file verification and repair tool.
