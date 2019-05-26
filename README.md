@@ -1,6 +1,24 @@
 Note: This is only a first draft/brainstorm. I will try to organize the list with more useful sections in the future    
 Feel free to contribute!
 
+* [Download utilities](#download-utilities)
+  * [Web Archiving](#web-archiving)
+  * [General](#general)
+  * [Application-specific](#application-specific)
+  * [Download automation](#download-automation)
+* [Compression](#compression)
+* [Network](#network)
+* [File systems](#file-systems)
+* [File conversion](#file-conversion)
+* [Utility Scripts](#utility-scripts)
+* [Content sharing](#content-sharing)
+* [Data curation](#data-curation)
+* [APIs & Online tools](#apis--online-tools)
+* [Hardware / Monitoring](#hardware--monitoring)
+* [Data recovery](#data-recovery)
+* [Local Media](#local-media)
+* [Long-term data archiving](#long-term-data-archiving)
+
 ## Download utilities
 
 ### Web Archiving
