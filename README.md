@@ -37,6 +37,7 @@ Feel free to contribute!
 * [CrowLeer](https://github.com/ERap320/CrowLeer): Powerful C++ web crawler based on libcurl
 * [curl](https://github.com/curl/curl): Tool and library for transferring data with URL syntax, supporting many protocols
 * [httpie](https://httpie.org/): a tool similar to curl and wget but designed to be user friendly, useful for web scraping with shell scripts but be aware you're adding a dependency by doing so. 
+* [news-crawl](https://github.com/commoncrawl/news-crawl): Cralwer for news feeds based on StromCrawler that prouduces WARC files.
 * [Plowshare](https://github.com/mcrapet/plowshare): Command-line tool to manage file-sharing site
 * [Rclone](https://github.com/ncw/rclone): A command line program to sync files and directories to and from various cloud storage providers
 * [wget](https://savannah.gnu.org/git/?group=wget): Utility for non-interactive download of files from the Web.
@@ -157,5 +158,6 @@ the Web (HTTP & FTP)
 * [Handbrake](https://handbrake.fr/): Open source DVD ripper and media trascoder. Has more options and features than the above, but it cannot rip blu ray discs. 
 
 ## Long-term data archiving
+* [CommonCrawl](http://commoncrawl.org/the-data/get-started/): Data collected over seven years (ongoing) which contains web page data, extracted metadata and text extractions.
 * [Blockyarchive](https://github.com/darrenldl/blockyarchive): Archive with forward error correction and sector level recoverability
 * [par2cmdline](https://github.com/Parchive/par2cmdline): A PAR 2.0 compatible file verification and repair tool
