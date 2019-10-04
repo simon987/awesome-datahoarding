@@ -47,7 +47,9 @@ Feel free to contribute!
 
 ### Application-specific
 
+* [BBCSoundDownloader](https://github.com/FThompson/BBCSoundDownloader): Bulk downloader for BBC's Sound Effects library http://bbcsfx.acropolis.org.uk/
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch): Saves threads from \*chan-style boards and checks for updates until the thread dies
+* [comics-downloader](https://github.com/Girbons/comics-downloader): Command-line tool to download comicsand manga in pdf/epub/cbz/cbr from supported sites
 * [floatplane_ripper](https://gist.github.com/simon987/0756c378ca2dfb0003931e26ff7fe270): Script to rip all videos from https://floatplane.rip/
 * [gallery-dl](https://github.com/mikf/gallery-dl): Download image galleries and collections from pixiv, exhentai, danbooru and more
 * [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper): Discord server archival (json output, download attachments and emojies)
