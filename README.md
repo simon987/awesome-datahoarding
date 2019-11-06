@@ -138,7 +138,7 @@ the Web (HTTP & FTP)
 * [TeraCopy](https://www.codesector.com/downloads): Copy your files faster and more securely
 * [tree](http://mama.indstate.edu/users/ice/tree/): 'tree' command for linux
 * [WinDirStat](https://windirstat.net/): Disk usage statistics viewer and cleanup tool for Windows
-* [sist2](https://github.com/simon987): Lightning-fast file system indexer and search tool
+* [sist2](https://github.com/simon987/sist2/): Lightning-fast file system indexer and search tool
 * [SyncToy](https://www.microsoft.com/en-us/download/details.aspx?id=15155): Microsoft windows file parity across locations tool 
 
 ## APIs & Online tools
