@@ -122,6 +122,7 @@ the Web (HTTP & FTP)
 ## Data curation
 * [baobab](https://github.com/GNOME/baobab): Graphical disk usage analyzer
 * [beets](https://github.com/beetbox/beets): Music library manager and MusicBrainz tagger
+* [browsemonkey](https://github.com/shukriadams/browsemonkey): Takes snapshots of file systems for offline browsing and searching.
 * [Calibre](https://github.com/kovidgoyal/calibre): Ebook manager
 * [DeepSort](https://github.com/CorentinB/DeepSort/): AI powered image tagger backed by DeepDetect
 * [diskover](https://github.com/shirosaidev/diskover): File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
