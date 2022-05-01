@@ -43,6 +43,7 @@ Feel free to contribute!
 * [aria2](https://aria2.github.io/): A lightweight multi-protocol & multi-source command-line download utility
 * [CrowLeer](https://github.com/ERap320/CrowLeer): Powerful C++ web crawler based on libcurl
 * [curl](https://github.com/curl/curl): Tool and library for transferring data with URL syntax, supporting many protocols
+* [Horahora](https://github.com/horahoradev/horahora): Video hosting website and video archival manager for Niconico, Bilibili, and Youtube
 * [httpie](https://httpie.org/): a tool similar to curl and wget but designed to be user friendly, useful for web scraping with shell scripts but be aware you're adding a dependency by doing so. 
 * [news-crawl](https://github.com/commoncrawl/news-crawl): Cralwer for news feeds based on StromCrawler that prouduces WARC files.
 * [Plowshare](https://github.com/mcrapet/plowshare): Command-line tool to manage file-sharing site
