@@ -162,7 +162,7 @@ the Web (HTTP & FTP)
 * [Calibre](https://github.com/kovidgoyal/calibre): Ebook manager
 * [DataCurator-Filetree](https://github.com/roboyoshi/datacurator-filetree): A unified filetree for all kinds of data, which should help in storing, categorising and retrieving
 * [DeepSort](https://github.com/CorentinB/DeepSort/): AI powered image tagger backed by DeepDetect
-* [diskover](https://github.com/shirosaidev/diskover): File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
+* [diskover](https://github.com/diskoverdata/diskover-community): File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
 * [Everything](https://www.voidtools.com/): Locate files and folders by name instantly (Windows)
 * [FileBot](https://www.filebot.net/): FileBot is the ultimate tool for organizing and renaming your Movies, TV Shows and Anime
 * [fucking-weeb](https://github.com/cosarara/fucking-weeb): A library manager for animu (and TV shows, and whatever).
