@@ -138,6 +138,7 @@ the Web (HTTP & FTP)
 * [Backblaze B2 sync backup script](https://gist.github.com/AlexanderProd/cb645cf858fd5c89780e7df267226b80): Script to sync mutliple directories with Backblaze B2
 * [flac2mp3_V0.py ](https://gist.github.com/simon987/2a1dd3090a2ad0574c00e171670b1e0d): Multi-threaded python script to convert all flac files to mp3 V0 while keeping the directory structure
 * [Misc download scripts](https://github.com/simon987/Misc-Download-Scripts): Scripts for downloading content from various websites
+* [TheFrenchGhosty's Ultimate YouTube-DL Scripts Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection): Collection of youtube-dl scripts to aid in YouTube channel archival
 * [rclone_dirsize](https://gist.github.com/simon987/7aff5ca3e9ae6c755055ca7b350ef9f8): Get size of http directory listing with rclone
 * [rm_empty_subdir](https://gist.github.com/simon987/f5c2cd7602898615ac9bc8c762d9fe1d): Remove empty sub-directories on Windows
 * [void-cat-uploader](https://github.com/takky1154/void-cat-uploader): This script automatically uploads all files inside a directory to https://void.cat.
