@@ -30,6 +30,7 @@ Feel free to contribute!
 
 ### Web Archiving
 * [ArchiveBox](https://github.com/pirate/ArchiveBox): The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+* [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler): Browsertrix Crawler is a simplified (Chrome) browser-based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container  
 * [Collect](https://github.com/xarantolus/Collect): A server to collect & archive websites that also supports video downloads
 * [grab-site](https://github.com/ludios/grab-site): The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
 * [Heritrix](https://github.com/internetarchive/heritrix3): Extensible, web-scale, archival-quality web crawler
