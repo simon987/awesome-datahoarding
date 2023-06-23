@@ -56,6 +56,7 @@ Feel free to contribute!
 * [wpull](https://github.com/ArchiveTeam/wpull): Wget-compatible web downloader and crawler
 * [you-get](https://github.com/soimort/you-get): Dumb downloader that scrapes the web
 * [Youtube-DL](https://github.com/rg3/youtube-dl): A command-line program to download videos from YouTube and a few hundred more sites
+* [ytdl-sub](https://github.com/jmbannon/ytdl-sub): Automate downloading and metadata generation with YoutubeDL
 
 ### Application-specific
 * [BBCSoundDownloader](https://github.com/FThompson/BBCSoundDownloader): Bulk downloader for BBC's Sound Effects library http://bbcsfx.acropolis.org.uk/
