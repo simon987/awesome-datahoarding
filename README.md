@@ -80,9 +80,9 @@ Feel free to contribute!
 * [Scribd-Downloader](https://github.com/ritiek/scribd-downloader): Allows downloading of Scribd documents
 * [snscrape](https://github.com/JustAnotherArchivist/snscrape): A social networking service scraper in Python
 * [RipMe](https://github.com/RipMeApp/ripme): RipMe is an album ripper for various websites. Runs on your computer. Requires Java 8.
+* [Tube Archivist](https://www.tubearchivist.com/): Self-Hosted Docker container for automated/scheduled YouTube downloads of channels, playlists, etc.
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils): Utilities for dealing with Tumblr blogs, Tumblr backup
 * [yt-mango](https://github.com/terorie/yt-mango): YouTube metadata archiver the Web (HTTP & FTP)
-* [Tube Archivist](https://www.tubearchivist.com/): Self-Hosted Docker container for automated/scheduled YouTube downloads of channels, playlists, etc.
 * [Youtube-MA](https://github.com/CorentinB/YouTube-MA): YouTube metadata archiver
 
 ### Download automation
