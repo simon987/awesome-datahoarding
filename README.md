@@ -67,7 +67,7 @@ Feel free to contribute!
 * [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper): Discord server archival (json output, download attachments and emojies)
 * [dzi-dl](https://github.com/ryanfb/dzi-dl): Deep Zoom Image Downloader
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare): Tool for making eBooks from stories on fanfiction and other web sites
-* [FicSave](https://github.com/waylaidwanderer/FicSave): Online fanfiction downloader
+* ~~[FicSave](https://github.com/waylaidwanderer/FicSave): Online fanfiction downloader~~ Source code is available, website however is now offline.
 * [flickr_download](https://github.com/beaufour/flickr-download): Simple script to download a Flickr set
 * [Google Images Download](https://github.com/hardikvasa/google-images-download): Python script for downloading images
 * [iiif-dl](https://github.com/ryanfb/iiif-dl): Command-line tile downloader/assembler for IIIF endpoints/manifests
