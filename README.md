@@ -40,11 +40,11 @@ Feel free to contribute!
 * [wikiteam](https://github.com/WikiTeam/wikiteam): set of tools for archiving wikis
 
 ### General
-* [annie](https://github.com/iawia002/annie): Youtube-DL alternative written in Golang
+* [annie](https://github.com/iawia002/annie): YouTube-DL alternative written in Golang
 * [aria2](https://aria2.github.io/): A lightweight multi-protocol & multi-source command-line download utility
 * [CrowLeer](https://github.com/ERap320/CrowLeer): Powerful C++ web crawler based on libcurl
 * [curl](https://github.com/curl/curl): Tool and library for transferring data with URL syntax, supporting many protocols
-* [Horahora](https://github.com/horahoradev/horahora): Video hosting website and video archival manager for Niconico, Bilibili, and Youtube
+* [Horahora](https://github.com/horahoradev/horahora): Video hosting website and video archival manager for Niconico, Bilibili, and YouTube
 * [httpie](https://httpie.org/): A tool similar to curl and wget but designed to be user friendly, useful for web scraping with shell scripts but be aware you're adding a dependency by doing so.
 * [news-crawl](https://github.com/commoncrawl/news-crawl): Cralwer for news feeds based on StromCrawler that prouduces WARC files
 * [Plowshare](https://github.com/mcrapet/plowshare): Command-line tool to manage file-sharing site
@@ -56,7 +56,7 @@ Feel free to contribute!
 * [wpull](https://github.com/ArchiveTeam/wpull): Wget-compatible web downloader and crawler
 * [you-get](https://github.com/soimort/you-get): Dumb downloader that scrapes the web
 * [Youtube-DL](https://github.com/rg3/youtube-dl): A command-line program to download videos from YouTube and a few hundred more sites
-* [ytdl-sub](https://github.com/jmbannon/ytdl-sub): Automate downloading and metadata generation with YoutubeDL
+* [ytdl-sub](https://github.com/jmbannon/ytdl-sub): Automate downloading and metadata generation with YouTubeDL
 
 ### Application-specific
 * [BBCSoundDownloader](https://github.com/FThompson/BBCSoundDownloader): Bulk downloader for BBC's Sound Effects library http://bbcsfx.acropolis.org.uk/
@@ -81,9 +81,9 @@ Feel free to contribute!
 * [snscrape](https://github.com/JustAnotherArchivist/snscrape): A social networking service scraper in Python
 * [RipMe](https://github.com/RipMeApp/ripme): RipMe is an album ripper for various websites. Runs on your computer. Requires Java 8.
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils): Utilities for dealing with Tumblr blogs, Tumblr backup
-* [yt-mango](https://github.com/terorie/yt-mango): Youtube metadata archiver
-the Web (HTTP & FTP)
-* [Youtube-MA](https://github.com/CorentinB/YouTube-MA): Youtube metadata archiver
+* [yt-mango](https://github.com/terorie/yt-mango): YouTube metadata archiver the Web (HTTP & FTP)
+* [Tube Archivist](https://www.tubearchivist.com/): Self-Hosted Docker container for automated/scheduled YouTube downloads of channels, playlists, etc.
+* [Youtube-MA](https://github.com/CorentinB/YouTube-MA): YouTube metadata archiver
 
 ### Download automation
 * [bazarr](https://github.com/morpheus65535/bazarr): Companion application to Sonarr and Radarr for downloading subtitles
@@ -140,11 +140,11 @@ the Web (HTTP & FTP)
 * [Backblaze B2 sync backup script](https://gist.github.com/AlexanderProd/cb645cf858fd5c89780e7df267226b80): Script to sync mutliple directories with Backblaze B2
 * [flac2mp3_V0.py ](https://gist.github.com/simon987/2a1dd3090a2ad0574c00e171670b1e0d): Multi-threaded python script to convert all flac files to mp3 V0 while keeping the directory structure
 * [Misc download scripts](https://github.com/simon987/Misc-Download-Scripts): Scripts for downloading content from various websites
-* [TheFrenchGhosty's Ultimate YouTube-DL Scripts Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection): Collection of youtube-dl scripts to aid in YouTube channel archival
+* [TheFrenchGhosty's Ultimate YouTube-DL Scripts Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection): Collection of YouTube-dl scripts to aid in YouTube channel archival
 * [rclone_dirsize](https://gist.github.com/simon987/7aff5ca3e9ae6c755055ca7b350ef9f8): Get size of http directory listing with rclone
 * [rm_empty_subdir](https://gist.github.com/simon987/f5c2cd7602898615ac9bc8c762d9fe1d): Remove empty sub-directories on Windows
 * [void-cat-uploader](https://github.com/takky1154/void-cat-uploader): This script automatically uploads all files inside a directory to https://void.cat
-* [youtube-dl_soundcloud](https://gist.github.com/simon987/2dd7c57d65a741c93f5791bc984b97d1): snippet for using youtube-dl to download soundcloud playlists
+* [youtube-dl_soundcloud](https://gist.github.com/simon987/2dd7c57d65a741c93f5791bc984b97d1): Snippet for using YouTube-dl to download soundcloud playlists
 
 ## Content sharing
 
