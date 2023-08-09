@@ -45,13 +45,13 @@ Feel free to contribute!
 * [CrowLeer](https://github.com/ERap320/CrowLeer): Powerful C++ web crawler based on libcurl
 * [curl](https://github.com/curl/curl): Tool and library for transferring data with URL syntax, supporting many protocols
 * [Horahora](https://github.com/horahoradev/horahora): Video hosting website and video archival manager for Niconico, Bilibili, and Youtube
-* [httpie](https://httpie.org/): a tool similar to curl and wget but designed to be user friendly, useful for web scraping with shell scripts but be aware you're adding a dependency by doing so. 
-* [news-crawl](https://github.com/commoncrawl/news-crawl): Cralwer for news feeds based on StromCrawler that prouduces WARC files.
+* [httpie](https://httpie.org/): A tool similar to curl and wget but designed to be user friendly, useful for web scraping with shell scripts but be aware you're adding a dependency by doing so.
+* [news-crawl](https://github.com/commoncrawl/news-crawl): Cralwer for news feeds based on StromCrawler that prouduces WARC files
 * [Plowshare](https://github.com/mcrapet/plowshare): Command-line tool to manage file-sharing site
 * [Rclone](https://github.com/ncw/rclone): A command line program to sync files and directories to and from various cloud storage providers
 * [rsync](https://rsync.samba.org/): An open source utility that provides fast incremental file transfer
 * [Suck-It](https://github.com/skallwar/suckit): Recursively visit and download a website's content to your disk (multi-threaded)
-* [wget](https://savannah.gnu.org/git/?group=wget): Utility for non-interactive download of files from the Web.
+* [wget](https://savannah.gnu.org/git/?group=wget): Utility for non-interactive download of files from the Web
 * [wget2](https://gitlab.com/gnuwget/wget2): Successor of GNU Wget, works multi-threaded
 * [wpull](https://github.com/ArchiveTeam/wpull): Wget-compatible web downloader and crawler
 * [you-get](https://github.com/soimort/you-get): Dumb downloader that scrapes the web
@@ -68,26 +68,26 @@ Feel free to contribute!
 * [dzi-dl](https://github.com/ryanfb/dzi-dl): Deep Zoom Image Downloader
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare): Tool for making eBooks from stories on fanfiction and other web sites
 * [FicSave](https://github.com/waylaidwanderer/FicSave): Online fanfiction downloader
-* [flickr_download](https://github.com/beaufour/flickr-download): Simple script to download a Flickr set.
+* [flickr_download](https://github.com/beaufour/flickr-download): Simple script to download a Flickr set
 * [Google Images Download](https://github.com/hardikvasa/google-images-download): Python script for downloading images
 * [iiif-dl](https://github.com/ryanfb/iiif-dl): Command-line tile downloader/assembler for IIIF endpoints/manifests
-* [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber): Very customizable imageboard/booru downloader with powerful filenaming features. 
+* [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber): Very customizable imageboard/booru downloader with powerful filenaming features
 * [instaloader](https://github.com/instaloader/instaloader): Download pictures (or videos) along with their captions and other metadata from Instagram
-* [InstaLooter](https://github.com/althonos/InstaLooter): API-less Instagram pictures and videos downloader. 
+* [InstaLooter](https://github.com/althonos/InstaLooter): API-less Instagram pictures and videos downloader.
 * [Instagram Scraper](https://github.com/dankmemes/instagram-scraper): Instagram-scraper is a command-line application written in Python that scrapes and downloads an instagram user's photos and videos. Use responsibly.
-* [PyInstaLive](https://github.com/notcammy/PyInstaLive): Instagram live stream downloader.
+* [PyInstaLive](https://github.com/notcammy/PyInstaLive): Instagram live stream downloader
 * [RedditDownloader](https://github.com/shadowmoose/RedditDownloader): Scrapes Reddit to download media of your choice
 * [Scribd-Downloader](https://github.com/ritiek/scribd-downloader): Allows downloading of Scribd documents
 * [snscrape](https://github.com/JustAnotherArchivist/snscrape): A social networking service scraper in Python
 * [RipMe](https://github.com/RipMeApp/ripme): RipMe is an album ripper for various websites. Runs on your computer. Requires Java 8.
-* [tumblr-utils](https://github.com/bbolli/tumblr-utils): Utilities for dealing with Tumblr blogs, Tumblr backup.
+* [tumblr-utils](https://github.com/bbolli/tumblr-utils): Utilities for dealing with Tumblr blogs, Tumblr backup
 * [yt-mango](https://github.com/terorie/yt-mango): Youtube metadata archiver
 the Web (HTTP & FTP)
 * [Youtube-MA](https://github.com/CorentinB/YouTube-MA): Youtube metadata archiver
 
 ### Download automation
 * [bazarr](https://github.com/morpheus65535/bazarr): Companion application to Sonarr and Radarr for downloading subtitles
-* [FlexGet](https://github.com/Flexget/Flexget): Multipurpose automation tool for content like torrents, nzbs, podcasts, comics, series, movies, etc
+* [FlexGet](https://github.com/Flexget/Flexget): Multipurpose automation tool for content like torrents, nzbs, podcasts, comics, series, movies, etc.
 * [Jackett](https://github.com/Jackett/Jackett): API support for torrent trackers (works with Sonarr, Radarr and others)
 * [Lidarr](https://github.com/lidarr/Lidarr): Music collection manager for Usenet and BitTorrent users
 * [Mylar](https://github.com/evilhero/mylar): An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents
@@ -109,7 +109,7 @@ the Web (HTTP & FTP)
 * [KGB Archiver](https://github.com/RandallFlagg/kgbarchiver): compression tool with unbelievable high compression rate
 * [peazip](http://www.peazip.org/): File archiver utility
 * [PIGZ](https://zlib.net/pigz/): Multi-threaded gzip
-* [WinRAR](https://www.rarlab.com/download.htm): Can decompress RAR and zip files.
+* [WinRAR](https://www.rarlab.com/download.htm): Can decompress RAR and zip files
 
 ## Network
 
@@ -143,7 +143,7 @@ the Web (HTTP & FTP)
 * [TheFrenchGhosty's Ultimate YouTube-DL Scripts Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection): Collection of youtube-dl scripts to aid in YouTube channel archival
 * [rclone_dirsize](https://gist.github.com/simon987/7aff5ca3e9ae6c755055ca7b350ef9f8): Get size of http directory listing with rclone
 * [rm_empty_subdir](https://gist.github.com/simon987/f5c2cd7602898615ac9bc8c762d9fe1d): Remove empty sub-directories on Windows
-* [void-cat-uploader](https://github.com/takky1154/void-cat-uploader): This script automatically uploads all files inside a directory to https://void.cat.
+* [void-cat-uploader](https://github.com/takky1154/void-cat-uploader): This script automatically uploads all files inside a directory to https://void.cat
 * [youtube-dl_soundcloud](https://gist.github.com/simon987/2dd7c57d65a741c93f5791bc984b97d1): snippet for using youtube-dl to download soundcloud playlists
 
 ## Content sharing
@@ -197,7 +197,8 @@ the Web (HTTP & FTP)
 
 **[`^        back to top        ^`](#)**
 
-* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/): A HDD/SSD utility software which supports a part of USB, Intel RAID and NVMe.
+* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/): A HDD/SSD utility software which supports a part of USB, Intel RAID and NVMe
+* [GSmartControl](https://gsmartcontrol.shaduri.dev/): Easy to use Multi-OS S.M.A.R.T. utility with an easy to understand graphical interface
 * [Hard Drive Sentinel](https://www.hdsentinel.com/): Multi-OS SSD and HDD monitoring and analysis software
 * [smartmontools](https://www.smartmontools.org/): Control and monitor storage systems using the (SMART) built into most modern ATA/SATA, SCSI/SAS and NVMe disks
 
@@ -205,17 +206,17 @@ the Web (HTTP & FTP)
 
 **[`^        back to top        ^`](#)**
 
-* [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) FOSS powerful gui data recovery tool. 
-* [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download) Another FOSS tool by the author of PhotoRec, but this one is for cli 
+* [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) FOSS powerful gui data recovery tool
+* [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download) Another FOSS tool by the author of PhotoRec, but this one is for cli
 
 ## Local Media
 
 **[`^        back to top        ^`](#)**
 
 * [whipper](https://github.com/whipper-team/whipper): Python CD-DA ripper preferring accuracy over speed. Generates .flac, .cue, and .log by default and automatically fetches metadata from musicbrainz. EAC log plugin is available.
-* [Exact Audio Copy](http://www.exactaudiocopy.de/): A freeware, Windows only application similar to the above that doesn't automatically fetch metadata by default, but EAC rips are preferred by most trackers. 
-* [MakeMKV](https://www.makemkv.com/): A cross-platform DVD ripper that supports recent blu ray DVDs. It's mostly open source, but the blu ray secret sauce is still hidden. 
-* [Handbrake](https://handbrake.fr/): Open source DVD ripper and media trascoder. Has more options and features than the above, but it cannot rip blu ray discs. 
+* [Exact Audio Copy](http://www.exactaudiocopy.de/): A freeware, Windows only application similar to the above that doesn't automatically fetch metadata by default, but EAC rips are preferred by most trackers
+* [MakeMKV](https://www.makemkv.com/): A cross-platform DVD ripper that supports recent blu ray DVDs. It's mostly open source, but the blu ray secret sauce is still hidden
+* [Handbrake](https://handbrake.fr/): Open source DVD ripper and media trascoder. Has more options and features than the above, but it cannot rip blu ray discs
 
 ## Long-term data archiving
 
