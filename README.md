@@ -55,9 +55,9 @@ Feel free to contribute!
 * [wget2](https://gitlab.com/gnuwget/wget2): Successor of GNU Wget, works multi-threaded
 * [wpull](https://github.com/ArchiveTeam/wpull): Wget-compatible web downloader and crawler
 * [you-get](https://github.com/soimort/you-get): Dumb downloader that scrapes the web
-* [Youtube-DL](https://github.com/rg3/youtube-dl): A command-line program to download videos from YouTube and a few hundred more sites
-* [ytdl-sub](https://github.com/jmbannon/ytdl-sub): Automate downloading and metadata generation with YouTubeDL
 
+* [ytdl-sub](https://github.com/jmbannon/ytdl-sub): Automate downloading and metadata generation with YouTubeDL
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp): A fork of YT-DLP that behaves better
 ### Application-specific
 * [BBCSoundDownloader](https://github.com/FThompson/BBCSoundDownloader): Bulk downloader for BBC's Sound Effects library http://bbcsfx.acropolis.org.uk/
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch): Saves threads from \*chan-style boards and checks for updates until the thread dies
