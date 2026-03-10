@@ -36,6 +36,7 @@ Feel free to contribute!
 * [Heritrix](https://github.com/internetarchive/heritrix3): Extensible, web-scale, archival-quality web crawler
 * [HTTrack](https://www.httrack.com/): Download a website from the Internet to a local directory
 * [wail](https://github.com/machawk1/wail): Web Archiving Integration Layer: One-Click User Instigated Preservation
+* [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive): Download complete websites from the Wayback Machine with full asset preservation for offline viewing
 * [webrecorder](https://github.com/webrecorder/webrecorder): An integrated platform for creating high-fidelity, ISO-compliant web archives in a user-friendly interface, providing access to archived content, and sharing collections
 * [wikiteam](https://github.com/WikiTeam/wikiteam): set of tools for archiving wikis
 
