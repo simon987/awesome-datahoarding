@@ -190,6 +190,7 @@ Feel free to contribute!
 
 **[`^        back to top        ^`](#)**
 
+* [PricePerGig](https://pricepergig.com/): Compare HDD and SSD prices by cost per TB/GB to spot genuinely good storage deals faster
 * [iqdb](https://iqdb.org/): Multi-service reverse image search
 * [thetvdb](https://www.thetvdb.com/): TV shows metadata (used by plex)
 
