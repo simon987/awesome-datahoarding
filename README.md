@@ -50,6 +50,7 @@ Feel free to contribute!
 * [Plowshare](https://github.com/mcrapet/plowshare): Command-line tool to manage file-sharing site
 * [Rclone](https://github.com/ncw/rclone): A command line program to sync files and directories to and from various cloud storage providers
 * [rsync](https://rsync.samba.org/): An open source utility that provides fast incremental file transfer
+* [StreamStash](https://www.streamstash.live): Self-hosted multi-platform creator archiver for Windows. Monitors and downloads from nine social platforms (TikTok, YouTube, Instagram, X, Telegram, Reddit, Snapchat, forums, web albums) into one local library, with automatic TikTok Live recording, cross-platform deduplication and local search. Freemium, proprietary.
 * [Suck-It](https://github.com/skallwar/suckit): Recursively visit and download a website's content to your disk (multi-threaded)
 * [wget](https://savannah.gnu.org/git/?group=wget): Utility for non-interactive download of files from the Web
 * [wget2](https://gitlab.com/gnuwget/wget2): Successor of GNU Wget, works multi-threaded
