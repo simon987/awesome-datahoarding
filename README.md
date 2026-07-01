@@ -172,6 +172,7 @@ Feel free to contribute!
 * [grepWin](https://github.com/stefankueng/grepWin): A powerful and fast search tool using regular expressions (Windows)
 * [Hydrus](https://github.com/hydrusnetwork/hydrus): A desktop application for large media collections
 * [Kiwix](https://www.kiwix.org): An offline reader for online content like Wikipedia, Project Gutenberg, or TED Talks
+* [The Last Light Survival Guide](https://bunkerbot.co.uk): A self-contained, fully-offline survival/reference library — 28 bundled books with in-browser full-text search and a local-AI assistant that cites its sources, plus one-click Kiwix expansion for all of Wikipedia & Project Gutenberg. Pure static HTML, checksummed and torrentable. ([source](https://github.com/hamtechautomation/survivalai))
 * [jdupes](https://github.com/jbruchon/jdupes): Powerful duplicate file finder
 * [MediaElch](https://github.com/komet/mediaelch): Media manager for Kodi
 * [MediaInfo](https://github.com/MediaArea/MediaInfo): Convenient unified display of the most relevant technical and tag data for video and audio files
