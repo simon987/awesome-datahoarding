@@ -225,3 +225,4 @@ Feel free to contribute!
 * [CommonCrawl](http://commoncrawl.org/the-data/get-started/): Data collected over seven years (ongoing) which contains web page data, extracted metadata and text extractions.
 * [Blockyarchive](https://github.com/darrenldl/blockyarchive): Archive with forward error correction and sector level recoverability
 * [par2cmdline](https://github.com/Parchive/par2cmdline): A PAR 2.0 compatible file verification and repair tool
+* [Hiberden](https://hiberden.app): Verified 3-2-1 archiving across LTO tape (LTFS), disk, NAS, and S3-compatible cloud. One catalog tracks every copy, and each copy is read back and re-hashed with SHA-256 before it counts as Verified. Windows, proprietary. Includes a CLI and an MCP server.
