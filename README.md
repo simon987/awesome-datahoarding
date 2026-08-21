@@ -190,6 +190,7 @@ Feel free to contribute!
 
 **[`^        back to top        ^`](#)**
 
+* [HDDHunt](https://hddhunt.com/): Compare HDDs and SSDs by price-per-TB to find the cheapest storage for a new build or upgrade; also publishes a free CC-BY HDD price-index dataset (CSV/JSON)
 * [iqdb](https://iqdb.org/): Multi-service reverse image search
 * [thetvdb](https://www.thetvdb.com/): TV shows metadata (used by plex)
 
