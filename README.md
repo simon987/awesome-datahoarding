@@ -213,6 +213,7 @@ Feel free to contribute!
 
 **[`^        back to top        ^`](#)**
 
+* [voxsolo](https://github.com/dhayanithi-svaromance/voxsolo): Isolate one speaker's voice from archival recordings (oral histories, broadcasts, film) — diarizes, silences other speakers and cross-talk, and keeps every retained sample bit-identical to the source (machine-verified), so nothing is denoised or resynthesized
 * [whipper](https://github.com/whipper-team/whipper): Python CD-DA ripper preferring accuracy over speed. Generates .flac, .cue, and .log by default and automatically fetches metadata from musicbrainz. EAC log plugin is available.
 * [Exact Audio Copy](http://www.exactaudiocopy.de/): A freeware, Windows only application similar to the above that doesn't automatically fetch metadata by default, but EAC rips are preferred by most trackers
 * [MakeMKV](https://www.makemkv.com/): A cross-platform DVD ripper that supports recent blu ray DVDs. It's mostly open source, but the blu ray secret sauce is still hidden
