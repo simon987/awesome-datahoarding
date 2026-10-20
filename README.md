@@ -38,6 +38,7 @@ Feel free to contribute!
 * [wail](https://github.com/machawk1/wail): Web Archiving Integration Layer: One-Click User Instigated Preservation
 * [webrecorder](https://github.com/webrecorder/webrecorder): An integrated platform for creating high-fidelity, ISO-compliant web archives in a user-friendly interface, providing access to archived content, and sharing collections
 * [wikiteam](https://github.com/WikiTeam/wikiteam): set of tools for archiving wikis
+* [SnapshotArchive](https://snapshotarchive.com): Scheduled website screenshot archiving with visual change detection and alerting
 
 ### General
 * [annie](https://github.com/iawia002/annie): YouTube-DL alternative written in Golang
