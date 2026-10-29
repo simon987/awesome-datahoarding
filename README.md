@@ -192,6 +192,7 @@ Feel free to contribute!
 
 * [iqdb](https://iqdb.org/): Multi-service reverse image search
 * [thetvdb](https://www.thetvdb.com/): TV shows metadata (used by plex)
+* [Sharpest](https://sharpest.ai/storage): Live eBay HDD/SSD prices per TB, checked twice a day, with an external-vs-bare (shucking) comparison.
 
 ## Hardware / Monitoring
 
