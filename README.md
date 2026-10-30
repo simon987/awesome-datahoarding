@@ -200,6 +200,7 @@ Feel free to contribute!
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/): A HDD/SSD utility software which supports a part of USB, Intel RAID and NVMe
 * [GSmartControl](https://gsmartcontrol.shaduri.dev/): Easy to use Multi-OS S.M.A.R.T. utility with an easy to understand graphical interface
 * [Hard Drive Sentinel](https://www.hdsentinel.com/): Multi-OS SSD and HDD monitoring and analysis software
+* [sheley.org Disk & SSD Price Tracker](https://sheley.org/disk-prices/): Live hard drive and SSD listings ranked by $/TB, with price history by drive size
 * [smartmontools](https://www.smartmontools.org/): Control and monitor storage systems using the (SMART) built into most modern ATA/SATA, SCSI/SAS and NVMe disks
 
 ## Data recovery
